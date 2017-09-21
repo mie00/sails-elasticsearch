@@ -24,7 +24,7 @@ $ npm install sails-elastic
     maxRetries: 10,
     deadTimeout: 40000,
     sniffOnConnectionFault: true,
-    apiVersion: '2.0'
+    apiVersion: '5.5'
 },
 ```
 #### Models
